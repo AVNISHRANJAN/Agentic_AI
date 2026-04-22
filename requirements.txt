@@ -2,3 +2,7 @@ ollama
 langchain
 langchain-ollama
 langgraph
+fastmcp #this package is used for create mcp servers
+langchain-mcp-adapters #this package is used for create mcp adapters
+gemma
+llama3
